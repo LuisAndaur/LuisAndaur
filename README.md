@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello world! 👋
 
+<br/>
+
+<a href="https://github.com/LuisAndaur">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisAndaur&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAndaur&theme=buefy&layout=compact" />
+</a>
 <!--
 **LuisAndaur/LuisAndaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
